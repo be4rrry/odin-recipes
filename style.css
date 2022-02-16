@@ -1,0 +1,16 @@
+h1 {
+    color:black;
+    background-color: whitesmoke;
+    font-size: 60px;
+    font-family 'Brush Script MT', cursive, 'Courier-New', monospace,:
+}
+
+li {
+    color:blue;
+    font-weight: bold;
+}
+
+p {
+    color:red;
+    font-family: cursive, "Times New Roman"
+}
