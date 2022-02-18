@@ -1,16 +1,23 @@
-h1 {
+h1, 
+.heading {
     color:black;
     background-color: whitesmoke;
     font-size: 60px;
     font-family 'Brush Script MT', cursive, 'Courier-New', monospace,:
 }
 
-li {
+.list {
     color:blue;
-    font-weight: bold;
+    font-weight: bold;'
+}
+
+.heading {
+    color:black;
+    background-color: whitesmoke;
+    font-size: 60px;
+    font-family 'Brush Script MT', cursive, 'Courier-New', monospace,:
 }
 
 p {
     color:red;
-    font-family: cursive, "Times New Roman"
 }
