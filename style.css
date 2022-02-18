@@ -11,13 +11,24 @@ h1,
     font-weight: bold;'
 }
 
-.heading {
-    color:black;
-    background-color: whitesmoke;
-    font-size: 60px;
-    font-family 'Brush Script MT', cursive, 'Courier-New', monospace,:
+h2 {
+    color: magenta;
+    font: "Times New Roman"
+}
+
+h3 {
+    color: yellowgreen
 }
 
 p {
     color:red;
+    font-family: cursive;
+}
+
+ul {
+    color: purple
+}
+
+ol {
+    color: brown
 }
